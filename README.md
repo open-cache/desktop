@@ -9,4 +9,4 @@ Grab the latest installer from [Releases](https://github.com/open-cache/desktop/
 - **macOS** (Apple Silicon): `OpenCache-<version>-arm64.dmg`
 - **Windows** (x64): `OpenCache Setup <version>.exe`
 
-> Preview builds are unsigned — on macOS, right-click → Open on first launch; on Windows, choose "More info → Run anyway" in SmartScreen.
+> macOS builds are signed and notarized — double-click to run. Windows builds are not signed yet: choose "More info → Run anyway" in SmartScreen.
